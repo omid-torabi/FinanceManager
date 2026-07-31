@@ -42,3 +42,13 @@ git clone https://github.com/omid-torabi/FinanceManager.git
 cd FinanceManager
 dotnet restore
 dotnet run
+
+---
+## 🗂️ Project Structure
+FinanceManager/
+├── Models/          # Data models (Transaction, Category, etc.)
+├── Services/        # Business logic (TransactionService, ReportService, SecurityService)
+├── Helpers/         # Utility classes (PasswordHelper)
+├── Data/            # Database context (AppDbContext)
+├── Views/           # XAML windows
+└── ViewModels/      # MVVM logic (optional)
