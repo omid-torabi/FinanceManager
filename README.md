@@ -34,16 +34,12 @@ A desktop application for managing personal finances, built with **C#** and **WP
 3. Launch from Start Menu or Desktop
 
 ---
-
-## 🗂️ Project Structure
-FinanceManager/
-├── Models/          # Data models (Transaction, Category, etc.)
-├── Services/        # Business logic (TransactionService, ReportService, SecurityService)
-├── Helpers/         # Utility classes (PasswordHelper)
-├── Data/            # Database context (AppDbContext)
-├── Views/           # XAML windows
-└── ViewModels/      # MVVM logic (optional)
-
+## 👤 About the Developer
+Omid Torabi
+Computer Engineering Student (2nd Semester)
+Passionate about building useful desktop apps and interested in moving to Germany.
+📧 [omidtorabi986@gmail.com]
+🔗 Your GitHub Profile
 ---
 
 ## 🧪 How to Run from Source
