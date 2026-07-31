@@ -39,7 +39,7 @@ Omid Torabi
 Computer Engineering Student (2nd Semester)
 Passionate about building useful desktop apps and interested in moving to Germany.
 📧 [omidtorabi986@gmail.com]
-🔗 Your GitHub Profile
+🔗(https://github.com/omid-torabi)
 ---
 
 ## 🧪 How to Run from Source
