@@ -35,6 +35,17 @@ A desktop application for managing personal finances, built with **C#** and **WP
 
 ---
 
+## 🗂️ Project Structure
+FinanceManager/
+├── Models/          # Data models (Transaction, Category, etc.)
+├── Services/        # Business logic (TransactionService, ReportService, SecurityService)
+├── Helpers/         # Utility classes (PasswordHelper)
+├── Data/            # Database context (AppDbContext)
+├── Views/           # XAML windows
+└── ViewModels/      # MVVM logic (optional)
+
+---
+
 ## 🧪 How to Run from Source
 
 ```bash
@@ -44,11 +55,3 @@ dotnet restore
 dotnet run
 
 ---
-## 🗂️ Project Structure
-FinanceManager/
-├── Models/          # Data models (Transaction, Category, etc.)
-├── Services/        # Business logic (TransactionService, ReportService, SecurityService)
-├── Helpers/         # Utility classes (PasswordHelper)
-├── Data/            # Database context (AppDbContext)
-├── Views/           # XAML windows
-└── ViewModels/      # MVVM logic (optional)
