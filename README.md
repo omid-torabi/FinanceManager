@@ -42,6 +42,13 @@ Passionate about building useful desktop apps and interested in moving to German
 🔗(https://github.com/omid-torabi)
 ---
 
+
+<img width="863" height="497" alt="1000036016" src="https://github.com/user-attachments/assets/764be53e-3483-45c4-813c-80536a9d6c25" />
+
+
+
+---
+
 ## 🧪 How to Run from Source
 
 ```bash
