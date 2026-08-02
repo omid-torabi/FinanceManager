@@ -37,7 +37,7 @@ A desktop application for managing personal finances, built with **C#** and **WP
 ## 👤 About the Developer
 Omid Torabi
 Computer Engineering Student (2nd Semester)
-Passionate about building useful desktop apps and interested in moving to Germany.
+Passionate about building useful desktop apps.
 📧 [omidtorabi986@gmail.com]
 🔗(https://github.com/omid-torabi)
 ---
